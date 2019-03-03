@@ -1,3 +1,5 @@
+import style from './style.css';
+import sass from './scss/main.scss';
 import { suma } from "./suma";
 
 const user = 'Miguel';
